@@ -1,5 +1,5 @@
-# MML-Credit-Card-Default
-Final project for Mathematics in Machine Learning @Politecnico di Torino A.Y. 2020/21
+# Predicting Credit Card Defaults with Machine Learning Algorithms - MML2021
+Final project for the Mathematics in Machine Learning course @Politecnico di Torino A.Y. 2020/21
 
 ---
 
